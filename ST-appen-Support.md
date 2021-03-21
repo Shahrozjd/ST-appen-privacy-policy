@@ -1,6 +1,6 @@
 ##Support Contact
 
-<p> For support conatct these email:</p><br>
+<p> For support conatct these email:</p>
 <ul>
   <li>shahrozjaved39@gmail.com</li>
   <li>usamaakram234@hotmail.com</li>
