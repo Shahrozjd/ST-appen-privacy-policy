@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to We don't collect your personnel information. This app is used for managing the data for operations done by professional doctors. App will help them with analysis of operation they done in past with help of charts and reports.. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to We don't collect your personnel information. We will use your name and email to authenticate you, to give you data according to your saves and edits. This app is used for managing the data for operations done by professional doctors. App will help them with analysis of operation they done in past with help of charts and reports.. The information that we request will be retained by us and used as described in this privacy policy.
 
 **Log Data**
 
