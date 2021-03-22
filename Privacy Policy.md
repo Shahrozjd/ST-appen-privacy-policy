@@ -9,7 +9,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ST-appen unless otherwise defined in this Privacy Policy.
 
 
-**Usage, Authentication and Paid content**
+## Usage, Authentication and Paid content
 <ul>
   <li>This app will be used in Sweden</li>
   <li>This app will be used in *******</li>
@@ -17,7 +17,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
   <li>This app is paid in appstore changes may change in future</li>
   <li>App doesnt include any paid content in app or any In-app purchases</li>
   <li>App is paid and will be used by doctors and hospital staffs</li>
-
+</ul>
 
 **Information Collection and Use**
 
