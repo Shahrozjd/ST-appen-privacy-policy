@@ -1,12 +1,23 @@
 **Privacy Policy**
 
-TechBurton built the ST-appen app as a Medical app to save operations data and analysis. This SERVICE is provided by TechBurton and is intended for use as is.
+TechBurton built the ST-appen app as a Medical app to save operations data and analysis.This app will be used in Sweden by ****** . This SERVICE is provided by TechBurton and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ST-appen unless otherwise defined in this Privacy Policy.
+
+
+**Usage, Authentication and Paid content**
+<ul>
+  <li>This app will be used in Sweden</li>
+  <li>This app will be used in *******</li>
+  <li>User will obtain account by signing up in the app</li>
+  <li>This app is paid in appstore changes may change in future</li>
+  <li>App doesnt include any paid content in app or any In-app purchases</li>
+  <li>App is paid and will be used by doctors and hospital staffs</li>
+
 
 **Information Collection and Use**
 
