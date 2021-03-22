@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-TechBurton built the ST-appen app as a Medical app to save operations data and analysis.This app will be used in Sweden by people who are a part of a snigle company, which will be doctors and staff of hospital. This SERVICE is provided by TechBurton and is intended for use as is.
+ST-appen app ia a a Medical app to save operations data and analysis.This app will be used in Sweden by people who are a part of a snigle company, which will be doctors and staff of hospital. This SERVICE is provided by TechBurton and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
