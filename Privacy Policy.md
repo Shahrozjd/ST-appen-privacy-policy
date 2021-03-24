@@ -26,6 +26,20 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
   <li>App is paid and will be used by doctors and hospital staffs</li>
 </ul>
 
+### User Account
+<ul>
+  <liUser will obtain account by registering an account to the app</li>
+  <li>For registeration we will require:</li>
+  <ul>
+      <li>Username</li>
+      <li>Age</li>
+      <li>Speciality</li>
+      <li>Hospital Name</li>
+    </ul>
+  <li>After signup user will have to login with username and password</li>
+  <li>User password is encrypted and secured</li>
+</ul>
+
 ### Information Collection and Use 
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to We don't collect your personnel information. We will use your name and email to authenticate you, to give you data according to your saves and edits. This app is used for managing the data for operations done by professional doctors. App will help them with analysis of operation they done in past with help of charts and reports.. The information that we request will be retained by us and used as described in this privacy policy.
