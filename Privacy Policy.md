@@ -28,6 +28,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### User Account
 <ul>
+  <li>Any user of the App Store can create an account</li>
   <li>User will obtain account by registering an account to the app</li>
   <li>For registeration we will require:</li>
   <ul>
